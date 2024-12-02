@@ -1,0 +1,32 @@
+h1 { 
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    color: black;
+    text-shadow: 1px 1px #111111;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(30,255,30);
+}
+body {
+    background-color: rgb(45,200,45);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav {
+    background-color: rgb(60,180,60);
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+ h2 {
+    padding: 40px;
+    text-shadow: 1px 1px #111111;
+}
+div {
+    background-color: green;
+    color: black;
+    margin: auto;
+}
+div > p {
+    padding-left: 50px;
+    padding-right: 30px;
+}
